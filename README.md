@@ -20,9 +20,9 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+- See my [full about page here](bonevibes.vercel.app) .
+- 💬 Ask me about [Bloackchain] and [React] and [Coding] !
+- 📫 How to reach me: ` bonevibes.vercel.app `
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I was once [detained in Japan] on suspicion of being a spy
 
-💬 Ask me about Svelte and React and Temporal and Airbyte!
-📫 How to reach me: swyx at hey dot com
-😄 Pronouns: he/him
-⚡ Fun fact: I was once detained in Cuba on suspicion of being a spy
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
