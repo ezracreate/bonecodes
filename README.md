@@ -23,6 +23,9 @@
 <h2>
 	You came this far might as well follow me 🫂
 <h2/>
+	<p>
+		<img alt=""follow src="https://media4.giphy.com/media/Y3XfxhuBbS0pNyfmo1/giphy.gif?cid=790b7611c9a87fe167fd953aa4b1577078969d8082e41317&rid=giphy.gif&ct=s"/>
+	</p>
 <h2>Things I code with</h2>
 <p>
 	<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
