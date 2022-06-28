@@ -39,7 +39,7 @@
 	<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 	<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-- See my <a href="bonevibes.vercel.app" target="_blank" rel="noreferrer nofollow"> full about page here </a> .<br/>
+- See my <a href="https://bonevibes.vercel.app" target="_blank" rel="noreferrer nofollow"> full about page here </a> .<br/>
 - 💬 Ask me about Bloackchain and React and Coding !<br/>
 - 📫 How to reach me: ` bonevibes.vercel.app `<br/>
 - 😄 Pronouns: he/him <br/>
