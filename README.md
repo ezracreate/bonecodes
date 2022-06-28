@@ -20,13 +20,10 @@
 		<img src="https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25>
 	</a>
 </p>
-<h2>
+<h3>
 	You came this far might as well follow me 🫂
-<h2/>
-	<p>
-		people who follow me get a cookie
-		<img alt=""follow src="https://media4.giphy.com/media/Y3XfxhuBbS0pNyfmo1/giphy.gif?cid=790b7611c9a87fe167fd953aa4b1577078969d8082e41317&rid=giphy.gif&ct=s" height="100"/>
-	</p>
+<h3/>
+
 <h2>Things I code with</h2>
 <p>
 	<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
