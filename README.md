@@ -24,7 +24,8 @@
 	You came this far might as well follow me 🫂
 <h2/>
 	<p>
-		<img alt=""follow src="https://media4.giphy.com/media/Y3XfxhuBbS0pNyfmo1/giphy.gif?cid=790b7611c9a87fe167fd953aa4b1577078969d8082e41317&rid=giphy.gif&ct=s" height="50"/>
+		people who follow me get a cookie
+		<img alt=""follow src="https://media4.giphy.com/media/Y3XfxhuBbS0pNyfmo1/giphy.gif?cid=790b7611c9a87fe167fd953aa4b1577078969d8082e41317&rid=giphy.gif&ct=s" height="100"/>
 	</p>
 <h2>Things I code with</h2>
 <p>
