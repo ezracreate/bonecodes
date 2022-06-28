@@ -21,8 +21,8 @@
 	</a>
 </p>
 <h3>
-	You came this far might as well follow me 🫂 ![](https://komarev.com/ghpvc/?username=bonecodes&color=green)
-<h3/>
+	You came this far might as well follow me 🫂 
+<h3/>![](https://komarev.com/ghpvc/?username=bonecodes&color=green)
 
 <h2>Things I code with</h2>
 <p>
