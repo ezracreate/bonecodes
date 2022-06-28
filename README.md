@@ -22,7 +22,7 @@
 </p>
 <br />
 <h2>
-	You came this far Might as well Follow me 🫂
+	You came this far might as well follow me 🫂
 <h2/>
 <br />
 <h3>Things I code with</h3>
