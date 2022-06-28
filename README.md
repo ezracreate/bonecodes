@@ -4,23 +4,27 @@
 <p>Welcome to my page! </br> I'm Nick, Fullstack developer from Asia, currently living in <b>🌏Delhi, India</b>. </p>
 <h3>Let's Connect</h3>
 <p>
-	<a href="https://www.twitter.com/mokkapps">
+	<a href="https://www.twitter.com/bonecodes">
 		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 	</a> 
-	<a href="https://www.linkedin.com/in/mokkapps">
+	<a href="https://www.linkedin.com/in/bonecodes">
 		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 	</a> 
-	<a href="https://www.instagram.com/mokkapps/">
+	<a href="https://www.instagram.com/bonescodes/">
 		<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
 	</a> 
-	<a href="https://medium.com/@MokkappsDev">
+	<a href="https://medium.com/@bonecodes">
 		<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
 	</a> 
-	<a href="https://dev.to/mokkapps">
+	<a href="https://dev.to/bonecodes">
 		<img src="https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25>
 	</a>
 </p>
-
+<br />
+<h2>
+	You came this far Might as well Follow me 🫂
+<h2/>
+<br />
 <h3>Things I code with</h3>
 <p>
 	<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
