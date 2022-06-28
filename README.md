@@ -20,11 +20,9 @@
 		<img src="https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25>
 	</a>
 </p>
-<br />
 <h2>
 	You came this far might as well follow me 🫂
 <h2/>
-<br />
 <h3>Things I code with</h3>
 <p>
 	<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
