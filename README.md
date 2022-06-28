@@ -20,9 +20,7 @@
 		<img src="https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25>
 	</a>
 </p>
-<a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
+
 <h3>Things I code with</h3>
 <p>
  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -46,4 +44,7 @@
 - 📫 How to reach me: ` bonevibes.vercel.app `<br/>
 - 😄 Pronouns: he/him <br/>
 - ⚡ Fun fact: I was once [detained in Japan] on suspicion of being a spy<br/>
-
+<h3>Support Me 👿</h3>
+<a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    </a>
