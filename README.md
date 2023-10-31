@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Nick, Fullstack developer from Asia, currently living in <b>🌏Delhi, India</b>. </p>
+<p>Welcome to my page! </br> I'm Ezra, a Fullstack developer from Asia.
 <h3>Let's Connect</h3>
 <p>
 	<a href="https://www.twitter.com/bonecodes">
@@ -21,7 +21,7 @@
 	</a>
 </p>
 <h3>
-	You came this far might as well follow me 🫂 
+	You came this far  might as well follow me 🫂 
 </h3>
 
 
